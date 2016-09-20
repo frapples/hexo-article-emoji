@@ -1,0 +1,19 @@
+{
+  "name": "hexo-article-emoji",
+  "version": "0.0.1",
+  "description": "Emoji plugin for your articles",
+  "main": "index",
+  "keywords": [
+    "hexo",
+    "blog",
+    "emoji"
+  ],
+  "author": {
+    "name": "Frapples"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "fs-extra": "^0.30.0"
+  }
+}
