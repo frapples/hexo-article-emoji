@@ -1,6 +1,6 @@
 {
   "name": "hexo-article-emoji",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Emoji plugin for your hexo blog",
   "main": "index",
   "keywords": [
