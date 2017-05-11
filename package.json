@@ -1,19 +1,27 @@
 {
   "name": "hexo-article-emoji",
-  "version": "0.0.1",
-  "description": "Emoji plugin for your articles",
+  "version": "0.0.2",
+  "description": "Emoji plugin for your hexo blog",
   "main": "index",
   "keywords": [
     "hexo",
     "blog",
     "emoji"
   ],
-  "author": {
-    "name": "Frapples"
-  },
+  "author": "Frapples <isfrapples@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.19.0",
     "fs-extra": "^0.30.0"
-  }
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frapples/hexo-article-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frapples/hexo-article-emoji/issues"
+  },
+  "homepage": "https://github.com/frapples/hexo-article-emoji#readme"
 }
