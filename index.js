@@ -19,7 +19,7 @@ hexo.extend.console.register(
     'article-emoji',
     'hexo-article-emoji plugins command',
     function (args) {
-        command(args, config);
+        command(args, hexo, config);
     }
 );
 
