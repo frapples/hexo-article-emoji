@@ -53,7 +53,7 @@ article_emoji:
   full: true
 ```
 
-If you need to customize emoji <img> element, you need to add in `_config.yml`
+If you need to customize emoji `<img>` element, you need to add in `_config.yml`
 
 ``` yml
 article_emoji:
