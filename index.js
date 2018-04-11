@@ -6,6 +6,7 @@ var config = assign({
     full: false
 }, hexo.config.article_emoji);
 config.install_dir = hexo.base_dir + 'source/' + config.image_dir;
+config.root_url = hexo.config.root;
 
 var filter =require("./lib/after-filter.js");
 hexo.extend.filter.register(
