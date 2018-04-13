@@ -45,6 +45,14 @@ article_emoji:
   full: true
 #+END_SRC
 
+If you need to customize emoji <img> element, you need to add in =_config.yml=
+#+BEGIN_SRC yml
+article_emoji:
+  style:
+    display: inline
+    padding: 10px
+#+END_SRC
+
 ** How to use?
 This link contains a table, lists the emoji syntax and expression of the relationship:
 http://www.webpagefx.com/tools/emoji-cheat-sheet/
